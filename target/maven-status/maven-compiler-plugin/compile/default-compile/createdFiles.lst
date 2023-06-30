@@ -1,0 +1,10 @@
+crm/pages/LoginPage.class
+crm/pages/SignupPage.class
+crm/baseclass/TestBase.class
+crm/util/WebEventListener.class
+crm/pages/TaskPage.class
+ExtendReportListener/ExtentReporterNG.class
+crm/pages/ContactsPage.class
+crm/util/TestUtil.class
+crm/pages/HomePage.class
+crm/pages/DealsPage.class
